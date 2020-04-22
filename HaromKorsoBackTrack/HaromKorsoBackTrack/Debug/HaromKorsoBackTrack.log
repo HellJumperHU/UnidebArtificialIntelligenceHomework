@@ -1,0 +1,4 @@
+﻿  HaromKorsoBackTrack.cpp
+C:\Users\Pc 1\source\repos\HaromKorsoBackTrack\HaromKorsoBackTrack\Csucs.h(24,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pc 1\source\repos\HaromKorsoBackTrack\HaromKorsoBackTrack\Csucs.h(133,41): warning C4018: '<': signed/unsigned mismatch
+  HaromKorsoBackTrack.vcxproj -> C:\Users\Pc 1\source\repos\HaromKorsoBackTrack\Debug\HaromKorsoBackTrack.exe
