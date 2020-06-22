@@ -1,0 +1,8 @@
+﻿  3KorsoSzelessegi.cpp
+F:\GitHubRepo\UnidebArtificialIntelligenceHomework\3KorsoSzelessegi\3KorsoSzelessegi\3KorsoSzelessegi.cpp(50,41): warning C4018: '<': signed/unsigned mismatch
+F:\GitHubRepo\UnidebArtificialIntelligenceHomework\3KorsoSzelessegi\3KorsoSzelessegi\3KorsoSzelessegi.cpp(176,41): warning C4018: '<': signed/unsigned mismatch
+F:\GitHubRepo\UnidebArtificialIntelligenceHomework\3KorsoSzelessegi\3KorsoSzelessegi\3KorsoSzelessegi.cpp(283,77): warning C4018: '<': signed/unsigned mismatch
+F:\GitHubRepo\UnidebArtificialIntelligenceHomework\3KorsoSzelessegi\3KorsoSzelessegi\3KorsoSzelessegi.cpp(315,56): warning C4018: '<': signed/unsigned mismatch
+F:\GitHubRepo\UnidebArtificialIntelligenceHomework\3KorsoSzelessegi\3KorsoSzelessegi\3KorsoSzelessegi.cpp(332,24): warning C4018: '<': signed/unsigned mismatch
+F:\GitHubRepo\UnidebArtificialIntelligenceHomework\3KorsoSzelessegi\3KorsoSzelessegi\3KorsoSzelessegi.cpp(348,20): warning C4018: '<': signed/unsigned mismatch
+  3KorsoSzelessegi.vcxproj -> F:\GitHubRepo\UnidebArtificialIntelligenceHomework\3KorsoSzelessegi\Debug\3KorsoSzelessegi.exe
